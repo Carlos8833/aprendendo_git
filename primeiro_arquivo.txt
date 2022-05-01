@@ -1,0 +1,10 @@
+Git é um sistema de controle de versão, ou seja, qualquer pessoa da equipe pode gerenciar o código fonte e seu histórico utilizgit ando comandos . 
+O git trata seus dados mais como um conjunto e imagens de um sistema de arquivos em miniatura
+Toda vez que for feito um commit,  ele  tira uma foto de todos arquivos e armaazena uma referencia para o conjunto Toda vez que você fizer um commit, ou salvar o estado de seuprojeto no Git, ele basicamente tira uma foto de todos os seus arquivos (snapshots) e armazena uma referência para esse conjunto de arquivos.
+principais comandos:
+git init
+git statu
+git add
+git commit - m
+git diff
+
